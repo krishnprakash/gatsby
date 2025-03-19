@@ -82,7 +82,7 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-webpack-plugin": "^2.7.0",
     "event-source-polyfill": "1.0.31",
-    "execa": "^5.1.1",
+    "execa": "^9.5.2",
     "express": "^4.18.2",
     "express-http-proxy": "^1.6.3",
     "fastest-levenshtein": "^1.0.16",
