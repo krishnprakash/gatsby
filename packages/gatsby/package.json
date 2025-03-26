@@ -150,7 +150,7 @@
     "react-refresh": "^0.14.0",
     "react-server-dom-webpack": "0.0.0-experimental-c8b778b7f-20220825",
     "redux": "4.2.1",
-    "redux-thunk": "^2.4.2",
+    "redux-thunk": "^3.1.0",
     "resolve-from": "^5.0.0",
     "semver": "^7.5.3",
     "shallow-compare": "^1.2.2",
