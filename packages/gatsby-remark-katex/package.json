@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.20.13",
-    "rehype-parse": "^7.0.1",
+    "rehype-parse": "^9.0.1",
     "remark-math": "^6.0.0",
     "unified": "^11.0.5",
     "unist-util-visit": "^2.0.3"
