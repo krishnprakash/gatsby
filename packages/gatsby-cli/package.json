@@ -38,7 +38,7 @@
     "lodash": "^4.17.21",
     "node-fetch": "^3.2.10",
     "opentracing": "^0.14.7",
-    "pretty-error": "^2.1.2",
+    "pretty-error": "^4.0.0",
     "progress": "^2.0.3",
     "prompts": "^2.4.2",
     "redux": "4.2.1",
