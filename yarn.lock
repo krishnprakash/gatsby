@@ -8629,11 +8629,10 @@ codepage@~1.15.0:
   resolved "https://registry.yarnpkg.com/codepage/-/codepage-1.15.0.tgz#2e00519024b39424ec66eeb3ec07227e692618ab"
   integrity sha512-3g6NUTPd/YtuuGrhMnOMRjFc+LJw/bnMp3+0r/Wcz3IXUuCosKRJvMphm5+Q+bvTVGcJJuRvVLuYba+WojaFaA==
 
-coffee-loader@^0.9.0:
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/coffee-loader/-/coffee-loader-0.9.0.tgz#6deabd336062ddc6d773da4dfd16367fc7107bd6"
-  dependencies:
-    loader-utils "^1.0.2"
+coffee-loader@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/coffee-loader/-/coffee-loader-5.0.0.tgz#376de71ea3dc648a9c4cac5b02fbadb7c19c8e6e"
+  integrity sha512-gUIfnuyjVEkjuugx6uRHHhnqmjqsL5dlhYgvhAUla25EoQhI57IFBQvsHvJHtBv5BMB2IzTKezDU2SrZkEiPdQ==
 
 coffee-react-transform@^5.0.0:
   version "5.0.0"
