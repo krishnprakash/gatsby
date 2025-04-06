@@ -23,7 +23,7 @@
     "@gatsbyjs/webpack-hot-middleware": "^2.25.3",
     "@graphql-codegen/add": "^3.2.3",
     "@graphql-codegen/core": "^2.6.8",
-    "@graphql-codegen/plugin-helpers": "^2.7.2",
+    "@graphql-codegen/plugin-helpers": "^5.1.0",
     "@graphql-codegen/typescript": "^2.8.8",
     "@graphql-codegen/typescript-operations": "^2.5.13",
     "@graphql-tools/code-file-loader": "^8.1.20",
