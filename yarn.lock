@@ -1717,10 +1717,10 @@
     html-entities "^2.3.3"
     strip-ansi "^6.0.0"
 
-"@graphiql/plugin-code-exporter@^0.2.0":
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/@graphiql/plugin-code-exporter/-/plugin-code-exporter-0.2.0.tgz#b887b6b6b2d7bc688de7a704a271d4f6dd5cf083"
-  integrity sha512-UmfJ0AR13o3delIOGPxCDQgq9wJUAPiqya0FzTlEaSm2D6xgum1hNTJRcCanhqGsRZHOSrM1SpMaHzHaG63KKw==
+"@graphiql/plugin-code-exporter@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@graphiql/plugin-code-exporter/-/plugin-code-exporter-0.3.0.tgz#5bd86f24ab17a46638e8be4e92c75b9b52c19d36"
+  integrity sha512-IQvrNJEPRPdMIG9E3nVbznGgtYYsZv5kU8LRayBqHqXoIaOsL4CTXx2PjmjJptbFuDMQxzlkYCOyW+QUcLQ2XA==
   dependencies:
     graphiql-code-exporter "^3.0.3"
 
