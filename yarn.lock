@@ -3483,17 +3483,22 @@
   resolved "https://registry.yarnpkg.com/@netlify/edge-functions/-/edge-functions-2.11.1.tgz#638decdda617ce2b92a97cb4140460b82263962f"
   integrity sha512-pyQOTZ8a+ge5lZlE+H/UAHyuqQqtL5gE0pXrHT9mOykr3YQqnkB2hZMtx12odatZ87gHg4EA+UPyMZUbLfnXvw==
 
-"@netlify/functions@^1.6.0":
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/@netlify/functions/-/functions-1.6.0.tgz#c373423e6fef0e6f7422ac0345e8bbf2cb692366"
-  integrity sha512-6G92AlcpFrQG72XU8YH8pg94eDnq7+Q0YJhb8x4qNpdGsvuzvrfHWBmqFGp/Yshmv4wex9lpsTRZOocdrA2erQ==
+"@netlify/functions@^3.0.4":
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/@netlify/functions/-/functions-3.0.4.tgz#0668f0cb5995948624f8f597c29b4bcf0b1eb7fc"
+  integrity sha512-Ox8+ABI+nsLK+c4/oC5dpquXuEIjzfTlJrdQKgQijCsDQoje7inXFAtKDLvvaGvuvE+PVpMLwQcIUL6P9Ob1hQ==
   dependencies:
-    is-promise "^4.0.0"
+    "@netlify/serverless-functions-api" "1.36.0"
 
 "@netlify/open-api@^2.26.0":
   version "2.26.0"
   resolved "https://registry.yarnpkg.com/@netlify/open-api/-/open-api-2.26.0.tgz#cdc8033371079955501f4b9a5323f2dcd76741c2"
   integrity sha512-B7q+ySzQm6rJhaGbY0Pzqnb1p3FsBqwiPLnLtA17JgTsqmXgQ7j6OQImW9fRJy/Al1ob9M6Oxng/FA2c7aIW1g==
+
+"@netlify/serverless-functions-api@1.36.0":
+  version "1.36.0"
+  resolved "https://registry.yarnpkg.com/@netlify/serverless-functions-api/-/serverless-functions-api-1.36.0.tgz#e7e9ce83d059c4c845440ec861a7e69c0d800bfa"
+  integrity sha512-z6okREyK8in0486a22Oro0k+YsuyEjDXJt46FpgeOgXqKJ9ElM8QPll0iuLBkpbH33ENiNbIPLd1cuClRQnhiw==
 
 "@nicolo-ribaudo/chokidar-2@2.1.8-no-fsevents.3":
   version "2.1.8-no-fsevents.3"
