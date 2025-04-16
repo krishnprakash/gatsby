@@ -41,15 +41,15 @@ jobs:
             Thanks again for being part of the Gatsby community! 💪💜
           stale-issue-label: "stale?"
           exempt-issue-labels: "not stale,status: triage needed,status: confirmed"
-      - name: Format Stale Output
-        id: format-stale-output
-        uses: ./.github/actions/format-stale-output
+      - name: Format Stale ENV
+        id: format-stale-env
+        uses: ./.github/actions/format-stale-env
         with:
-          staled-issues-prs: ${{ steps.stale.outputs.staled-issues-prs }}
-          closed-issues-prs: ${{ steps.stale.outputs.closed-issues-prs }}
+          staled-issues-prs: ${{ steps.stale.env.staled-issues-prs }}
+          closed-issues-prs: ${{ steps.stale.env.closed-issues-prs }}
       - name: Slack Report Closed Issues
         uses: pullreminders/slack-action@master
         env:
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_TOKEN }}
         with:
-          args: '{\"channel\": \"${{ secrets.SLACK_STALE_CHANNEL_ID }}\", \"text\": \"\", \"blocks\": ${{ steps.format-stale-output.outputs.blocks }} }'
+          args: '{\"channel\": \"${{ secrets.SLACK_STALE_CHANNEL_ID }}\", \"text\": \"\", \"blocks\": ${{ steps.format-stale-env.env.blocks }} }'
