@@ -91,11 +91,11 @@ jobs:
           steps: 0
                 uses:actions/checkout@v4
                 name:{Build with Jekyll}
-                with:
-                    source: ./
-                    destination: ./_site
-                    name: Upload artifact
-                    uses: actions/upload-pages-artifact@v3      
+                with
+                    source./
+                    destination./_site
+                    name:Upload artifact
+                    uses:actions/upload-pages-artifact@v3      
 
   # Deployment job
   deploy:
