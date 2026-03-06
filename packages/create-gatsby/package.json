@@ -32,7 +32,7 @@
     "microbundle": "^0.15.1",
     "node-fetch": "^3.2.10",
     "string-length": "^4.0.2",
-    "terminal-link": "^2.1.1",
+    "terminal-link": "^5.0.0",
     "tiny-spin": "^1.0.2"
   },
   "repository": {
