@@ -31,7 +31,7 @@
     "joi": "^17.9.2",
     "microbundle": "^0.15.1",
     "node-fetch": "^3.2.10",
-    "string-length": "^4.0.2",
+    "string-length": "^7.0.1",
     "terminal-link": "^2.1.1",
     "tiny-spin": "^1.0.2"
   },
