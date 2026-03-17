@@ -1358,14 +1358,14 @@
     "@babel/plugin-transform-typescript" "^7.18.6"
 
 "@babel/register@^7.13.16", "@babel/register@^7.18.9":
-  version "7.18.9"
-  resolved "https://registry.yarnpkg.com/@babel/register/-/register-7.18.9.tgz#1888b24bc28d5cc41c412feb015e9ff6b96e439c"
-  integrity sha512-ZlbnXDcNYHMR25ITwwNKT88JiaukkdVj/nG7r3wnuXkOTHc60Uy05PwMCPre0hSkY68E6zK3xz+vUJSP2jWmcw==
+  version "7.28.6"
+  resolved "https://registry.yarnpkg.com/@babel/register/-/register-7.28.6.tgz#f54461dd32f6a418c1eb1f583c95ed0b7266ea4c"
+  integrity sha512-pgcbbEl/dWQYb6L6Yew6F94rdwygfuv+vJ/tXfwIOYAfPB6TNWpXUMEtEq3YuTeHRdvMIhvz13bkT9CNaS+wqA==
   dependencies:
     clone-deep "^4.0.1"
     find-cache-dir "^2.0.0"
     make-dir "^2.1.0"
-    pirates "^4.0.5"
+    pirates "^4.0.6"
     source-map-support "^0.5.16"
 
 "@babel/runtime-corejs3@^7.10.2":
@@ -13355,9 +13355,9 @@ graphql-type-json@0.3.2:
   integrity sha512-J+vjof74oMlCWXSvt0DOf2APEdZOCdubEvGDUAlqH//VBYcOYsGgRW7Xzorr44LvkjiuvecWc8fChxuZZbChtg==
 
 "graphql@^15.0.0 || ^16.0.0", graphql@^16.6.0, graphql@^16.7.1:
-  version "16.10.0"
-  resolved "https://registry.yarnpkg.com/graphql/-/graphql-16.10.0.tgz#24c01ae0af6b11ea87bf55694429198aaa8e220c"
-  integrity sha512-AjqGKbDGUFRKIRCP9tCKiIGHyriz2oHEbPIbEtcSLSs4YjReZOIPQQWek4+6hjw62H9QShXHyaGivGiYVLeYFQ==
+  version "16.13.1"
+  resolved "https://registry.yarnpkg.com/graphql/-/graphql-16.13.1.tgz#38ae5c76fbc4a009e0004dca6c76c370a1da7b54"
+  integrity sha512-gGgrVCoDKlIZ8fIqXBBb0pPKqDgki0Z/FSKNiQzSGj2uEYHr1tq5wmBegGwJx6QB5S5cM0khSBpi/JFHMCvsmQ==
 
 gray-matter@^2.1.0:
   version "2.1.1"
@@ -20356,10 +20356,10 @@ pinpoint@^1.1.0:
   resolved "https://registry.yarnpkg.com/pinpoint/-/pinpoint-1.1.0.tgz#0cf7757a6977f1bf7f6a32207b709e377388e874"
   integrity sha1-DPd1eml38b9/ajIge3CeN3OI6HQ=
 
-pirates@^4.0.4, pirates@^4.0.5:
-  version "4.0.5"
-  resolved "https://registry.yarnpkg.com/pirates/-/pirates-4.0.5.tgz#feec352ea5c3268fb23a37c702ab1699f35a5f3b"
-  integrity sha512-8V9+HQPupnaXMA23c5hvl69zXvTwTzyAYasnkb0Tts4XvO4CliqONMOnvlq26rkhLC3nWDFBJf73LU1e1VZLaQ==
+pirates@^4.0.4, pirates@^4.0.6:
+  version "4.0.7"
+  resolved "https://registry.yarnpkg.com/pirates/-/pirates-4.0.7.tgz#643b4a18c4257c8a65104b73f3049ce9a0a15e22"
+  integrity sha512-TfySrs/5nm8fQJDcBDuUng3VOUKsd7S+zqvbOTiGXHfxX4wK31ard+hoNuvkicM/2YFzlpDgABOevKSsB4G/FA==
 
 pkg-dir@^3.0.0:
   version "3.0.0"
@@ -26229,11 +26229,6 @@ utility-types@^3.10.0:
 utils-merge@1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/utils-merge/-/utils-merge-1.0.1.tgz#9f95710f50a267947b2ccc124741c1028427e713"
-
-uuid@^11.1.0:
-  version "11.1.0"
-  resolved "https://registry.yarnpkg.com/uuid/-/uuid-11.1.0.tgz#9549028be1753bb934fc96e2bca09bb4105ae912"
-  integrity sha512-0/A9rDy9P7cJ+8w1c9WD9V//9Wj15Ce2MPz8Ri6032usz+NfePxx5AcN3bN+r6ZL6jEo066/yNYB3tn4pQEx+A==
 
 uuid@^3.0.1, uuid@^3.3.2:
   version "3.4.0"
