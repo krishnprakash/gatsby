@@ -3199,14 +3199,15 @@
     "@lukeed/csprng" "^1.1.0"
 
 "@mdx-js/mdx@^3.1.0":
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/@mdx-js/mdx/-/mdx-3.1.0.tgz#10235cab8ad7d356c262e8c21c68df5850a97dc3"
-  integrity sha512-/QxEhPAvGwbQmy1Px8F899L5Uc2KZ6JtXwlCgJmjSTBedwOZkByYcBG4GceIGPXRDsmfxhHazuS+hlOShRLeDw==
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/@mdx-js/mdx/-/mdx-3.1.1.tgz#c5ffd991a7536b149e17175eee57a1a2a511c6d1"
+  integrity sha512-f6ZO2ifpwAQIpzGWaBQT2TXxPv6z3RBzQKpVftEWN78Vl/YweF1uwussDx8ECAXVtr3Rs89fKyG9YlzUs9DyGQ==
   dependencies:
     "@types/estree" "^1.0.0"
     "@types/estree-jsx" "^1.0.0"
     "@types/hast" "^3.0.0"
     "@types/mdx" "^2.0.0"
+    acorn "^8.0.0"
     collapse-white-space "^2.0.0"
     devlop "^1.0.0"
     estree-util-is-identifier-name "^3.0.0"
@@ -26229,11 +26230,6 @@ utility-types@^3.10.0:
 utils-merge@1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/utils-merge/-/utils-merge-1.0.1.tgz#9f95710f50a267947b2ccc124741c1028427e713"
-
-uuid@^11.1.0:
-  version "11.1.0"
-  resolved "https://registry.yarnpkg.com/uuid/-/uuid-11.1.0.tgz#9549028be1753bb934fc96e2bca09bb4105ae912"
-  integrity sha512-0/A9rDy9P7cJ+8w1c9WD9V//9Wj15Ce2MPz8Ri6032usz+NfePxx5AcN3bN+r6ZL6jEo066/yNYB3tn4pQEx+A==
 
 uuid@^3.0.1, uuid@^3.3.2:
   version "3.4.0"
