@@ -58,7 +58,7 @@
     "del-cli": "^5.0.0",
     "opentracing": "^0.14.7",
     "typescript": "^5.1.6",
-    "webpack": "~5.99.5"
+    "webpack": "~5.105.4"
   },
   "jest": {
     "testEnvironment": "node"
