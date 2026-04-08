@@ -30,7 +30,7 @@
     "hex2rgba": "^0.0.1"
   },
   "devDependencies": {
-    "cross-env": "^7.0.3",
+    "cross-env": "^10.1.0",
     "microbundle": "^0.15.0",
     "preval.macro": "^5.0.0"
   },
