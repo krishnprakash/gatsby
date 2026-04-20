@@ -125,7 +125,7 @@
     "memoizee": "^0.4.15",
     "micromatch": "^4.0.5",
     "mime": "^3.0.0",
-    "mini-css-extract-plugin": "1.6.2",
+    "mini-css-extract-plugin": "2.10.2",
     "mitt": "^1.2.0",
     "moment": "^2.29.4",
     "multer": "^1.4.5-lts.1",
