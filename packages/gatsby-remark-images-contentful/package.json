@@ -23,7 +23,7 @@
     "lodash": "^4.17.21",
     "semver": "^7.5.3",
     "sharp": "^0.32.6",
-    "unist-util-select": "^3.0.4"
+    "unist-util-select": "^5.1.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.20.7",
