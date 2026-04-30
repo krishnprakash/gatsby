@@ -53,7 +53,7 @@
     "jest-extended": "^3.2.4",
     "jest-junit": "^15.0.0",
     "jest-serializer-path": "^0.1.15",
-    "jest-silent-reporter": "^0.5.0",
+    "jest-silent-reporter": "^0.6.0",
     "joi": "^14.3.1",
     "js-yaml": "^4.1.0",
     "lerna": "^3.22.1",
