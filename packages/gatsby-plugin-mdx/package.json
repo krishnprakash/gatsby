@@ -40,7 +40,7 @@
     "mdast-util-mdx": "^2.0.1",
     "mdast-util-to-hast": "^10.2.0",
     "mdast-util-to-markdown": "^2.1.2",
-    "mdast-util-toc": "^6.1.1",
+    "mdast-util-toc": "^7.1.0",
     "rehype-infer-description-meta": "^1.1.0",
     "remark-unwrap-images": "^3.0.1",
     "unified": "^10.1.2",

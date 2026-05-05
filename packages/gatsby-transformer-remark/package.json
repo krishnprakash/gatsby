@@ -15,7 +15,7 @@
     "lodash": "^4.17.21",
     "mdast-util-to-hast": "^10.2.0",
     "mdast-util-to-string": "^2.0.0",
-    "mdast-util-toc": "^5.1.0",
+    "mdast-util-toc": "^7.1.0",
     "remark": "^13.0.0",
     "remark-footnotes": "^3.0.0",
     "remark-gfm": "^1.0.0",
