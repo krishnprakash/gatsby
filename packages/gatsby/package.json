@@ -115,7 +115,7 @@
     "invariant": "^2.2.4",
     "is-relative": "^1.0.0",
     "is-relative-url": "^3.0.0",
-    "joi": "^17.9.2",
+    "joi": "^18.2.1",
     "json-loader": "^0.5.7",
     "latest-version": "^7.0.0",
     "linkfs": "^2.1.0",

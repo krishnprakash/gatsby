@@ -28,7 +28,7 @@
     "execa": "^5.1.1",
     "fs-extra": "^11.2.0",
     "gatsby-plugin-utils": "^4.15.0-next.0",
-    "joi": "^17.9.2",
+    "joi": "^18.2.1",
     "microbundle": "^0.15.1",
     "node-fetch": "^3.2.10",
     "string-length": "^4.0.2",
