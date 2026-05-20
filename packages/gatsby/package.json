@@ -65,7 +65,7 @@
     "css-loader": "^5.2.7",
     "css-minimizer-webpack-plugin": "^2.0.0",
     "css.escape": "^1.5.1",
-    "date-fns": "^2.30.0",
+    "date-fns": "^4.2.1",
     "debug": "^4.3.4",
     "deepmerge": "^4.3.1",
     "detect-port": "^1.5.1",
