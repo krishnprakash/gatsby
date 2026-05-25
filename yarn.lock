@@ -5006,9 +5006,9 @@
     "@types/istanbul-lib-report" "*"
 
 "@types/jaeger-client@^3.18.4":
-  version "3.18.4"
-  resolved "https://registry.yarnpkg.com/@types/jaeger-client/-/jaeger-client-3.18.4.tgz#dded1364705313ca923505b6c8d59a0697ff97c3"
-  integrity sha512-kx+E0mbGdn73ocZhN7fmonmZd2+UJNTo34LBhlB5h36q3QzdIdQPFjOv1mm24quQQP6jQDoD5xRfwzLp1utrrA==
+  version "3.18.7"
+  resolved "https://registry.yarnpkg.com/@types/jaeger-client/-/jaeger-client-3.18.7.tgz#19315eb1616d85b84210da5df01b4a62c219c5b0"
+  integrity sha512-ktEWbcM8faJY5UNEmffnvavjIJ9noNCD7clD9hAZIuQt6QMv0T97kiveH0mbvBNr9SPZXmkidOu/3UWgSy89tQ==
   dependencies:
     "@types/node" "*"
     opentracing "~0.14.3"
@@ -26229,11 +26229,6 @@ utility-types@^3.10.0:
 utils-merge@1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/utils-merge/-/utils-merge-1.0.1.tgz#9f95710f50a267947b2ccc124741c1028427e713"
-
-uuid@^11.1.0:
-  version "11.1.0"
-  resolved "https://registry.yarnpkg.com/uuid/-/uuid-11.1.0.tgz#9549028be1753bb934fc96e2bca09bb4105ae912"
-  integrity sha512-0/A9rDy9P7cJ+8w1c9WD9V//9Wj15Ce2MPz8Ri6032usz+NfePxx5AcN3bN+r6ZL6jEo066/yNYB3tn4pQEx+A==
 
 uuid@^3.0.1, uuid@^3.3.2:
   version "3.4.0"
