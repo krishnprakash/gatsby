@@ -3570,10 +3570,10 @@
   resolved "https://registry.yarnpkg.com/@open-draft/until/-/until-1.0.3.tgz#db9cc719191a62e7d9200f6e7bab21c5b848adca"
   integrity sha512-Aq58f5HiWdyDlFffbbSjAlv596h/cOnt2DO1w3DOC7OJ5EHs0hd/nycJfiu9RJbT6Yk6F1knnRRXNSpxoIVZ9Q==
 
-"@opentelemetry/semantic-conventions@0.26.0":
-  version "0.26.0"
-  resolved "https://registry.yarnpkg.com/@opentelemetry/semantic-conventions/-/semantic-conventions-0.26.0.tgz#df94120f3a91001a55ed939d2d2a3f8c9148f27b"
-  integrity sha512-iO26zEr7GCAG9/yernhSj/LcB4EudVcN8fiI/8B4lVnoqLZQ/qHaOVdyemdeXZ8IkIvoCifoJYPqIARJpqg42w==
+"@opentelemetry/semantic-conventions@1.41.1":
+  version "1.41.1"
+  resolved "https://registry.yarnpkg.com/@opentelemetry/semantic-conventions/-/semantic-conventions-1.41.1.tgz#b04e7151c5913a7a006d4f465479da75efb98a7a"
+  integrity sha512-/UhIkaZgPutTFmQ7RnIJGgDXZmtEJ7Dvi86xNTFWcnRxVRNk/aotsqDJYeEvDP+FSMB2SdW+pQzNMcWP0rwuNA==
 
 "@parcel/bundler-default@2.8.3":
   version "2.8.3"
@@ -26229,11 +26229,6 @@ utility-types@^3.10.0:
 utils-merge@1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/utils-merge/-/utils-merge-1.0.1.tgz#9f95710f50a267947b2ccc124741c1028427e713"
-
-uuid@^11.1.0:
-  version "11.1.0"
-  resolved "https://registry.yarnpkg.com/uuid/-/uuid-11.1.0.tgz#9549028be1753bb934fc96e2bca09bb4105ae912"
-  integrity sha512-0/A9rDy9P7cJ+8w1c9WD9V//9Wj15Ce2MPz8Ri6032usz+NfePxx5AcN3bN+r6ZL6jEo066/yNYB3tn4pQEx+A==
 
 uuid@^3.0.1, uuid@^3.3.2:
   version "3.4.0"
