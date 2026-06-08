@@ -27,7 +27,7 @@
     "@graphql-codegen/typescript": "^2.8.8",
     "@graphql-codegen/typescript-operations": "^2.5.13",
     "@graphql-tools/code-file-loader": "^7.3.23",
-    "@graphql-tools/load": "^7.8.14",
+    "@graphql-tools/load": "^8.1.10",
     "@jridgewell/trace-mapping": "^0.3.18",
     "@nodelib/fs.walk": "^1.2.8",
     "@parcel/cache": "2.14.4",
