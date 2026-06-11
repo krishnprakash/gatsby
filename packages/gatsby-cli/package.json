@@ -34,7 +34,7 @@
     "gatsby-core-utils": "^4.15.0-next.0",
     "hosted-git-info": "^3.0.8",
     "is-valid-path": "^0.1.1",
-    "joi": "^17.9.2",
+    "joi": "^18.2.1",
     "lodash": "^4.17.21",
     "node-fetch": "^3.2.10",
     "opentracing": "^0.14.7",
