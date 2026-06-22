@@ -14,7 +14,7 @@
     "lodash": "^4.17.21",
     "path-is-inside": "^1.0.2",
     "probe-image-size": "^7.2.3",
-    "unist-util-visit": "^2.0.3"
+    "unist-util-visit": "^5.1.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.20.7",

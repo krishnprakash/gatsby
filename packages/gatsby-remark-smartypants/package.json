@@ -10,7 +10,7 @@
     "@babel/runtime": "^7.20.13",
     "retext": "^7.0.1",
     "retext-smartypants": "^4.0.0",
-    "unist-util-visit": "^2.0.3"
+    "unist-util-visit": "^5.1.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.20.7",
